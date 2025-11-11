@@ -1,7 +1,10 @@
 
 # 👋 Olá, eu sou a Lívia Vitória!
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End.
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Full-Stack.
+
+
+
 
 ---
 
@@ -25,20 +28,16 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ---
 
-## 🚀 Meus Projetos
 
-| Projeto               | Preview Online                        | Tecnologias Usadas        |
-|-----------------------|-------------------------------------|--------------------------|
-| **Adivinhe a Bandeira** | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS          |
 
 
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **SENAI**
+- 🎓 Atualmente estudo no **SENAI-SP**
 - 💻 Estou aprendendo **Desenvolvimento Web, Mobile e UI/UX.**
-- 🎯 Meu objetivo é **ser desenvolvedora Front-End.**
-- 📚 Gosto de aprender sobre **Design e experiência de usuário**
+- 🎯 Meu objetivo é ser uma boa **Desenvolvedora Full-Stack.**
+- 📚 Gosto de aprender sobre **Design e experiência de usuário e desenvolvimento de software**
 - ✝ [Evoluir cada dia mais!]
 
 ---
