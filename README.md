@@ -37,7 +37,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 🎓 Atualmente estudo no **SENAI-SP**
 - 💻 Estou aprendendo **Desenvolvimento Web, Mobile e UI/UX.**
 - 🎯 Meu objetivo é ser uma boa **Desenvolvedora Full-Stack.**
-- 📚 Gosto de aprender sobre **Design e experiência de usuário e desenvolvimento de software**
+- 📚 Gosto de aprender sobre **Design e desenvolvimento de software**
 - ✝ [Evoluir cada dia mais!]
 
 ---
