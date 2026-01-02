@@ -3,10 +3,16 @@
 
 Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programando e criando projetos web e mobile**, com controle de versionamento via **Git** e **GitHub**. Meu interesse profissional é seguir em Full-Stack.
 
-
+<details>
+  <summary>🌐 Click here to read in English.</summary>
+  <p>
+    I have a degree in **Systems Development** and I mainly work **programming and creating web and mobile projects**, with version control through **Git** and **GitHub**. My professional interest is to pursue a career in Full-Stack.
+  </p>
+</details>
 
 
 ---
+
 
 ## 🎯 Stacks em constante aprendizado
 
