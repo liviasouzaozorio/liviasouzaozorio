@@ -8,7 +8,7 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 
 ---
 
-## 🎯 Tecnologias em constante aprendizado
+## 🎯 Stacks em constante aprendizado
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
