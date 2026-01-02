@@ -6,7 +6,7 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 <details>
   <summary>🌐 Click here to read in English.</summary>
   <p>
-    I have a degree in **Systems Development** and I mainly work **programming and creating web and mobile projects**, with version control through **Git** and **GitHub**. My professional interest is to pursue a career in Full-Stack.
+    I have a degree in Systems Development and I mainly work programming and creating web and mobile projects, with version control through Git and GitHub. My professional interest is to pursue a career in Full-Stack.
   </p>
 </details>
 
