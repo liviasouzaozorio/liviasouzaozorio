@@ -1,14 +1,14 @@
 
-# 👋 Olá, eu sou a Lívia Vitória!
+# 👋 Olá, eu sou a Lívia Ozório!
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Full-Stack.
+Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programando e criando projetos web e mobile**, com controle de versionamento via **Git** e **GitHub**. Meu interesse pessoal é seguir em Full-Stack.
 
 
 
 
 ---
 
-## 🎯 Tecnologias que estou aprendendo
+## 🎯 Tecnologias em constante aprendizado
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -34,10 +34,10 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **SENAI-SP**
-- 💻 Estou aprendendo **Desenvolvimento Web, Mobile e UI/UX.**
-- 🎯 Meu objetivo é ser uma boa **Desenvolvedora Full-Stack.**
-- 📚 Gosto de aprender sobre **Design e desenvolvimento de software**
+- 🎓 Formada em Desenvolvimento de Sistemas pela instituição **SENAI-SP**.
+- 💻 Estou praticando **Desenvolvimento Web, Mobile e UI/UX Design**.
+- 🎯 Meu objetivo é ser uma ótima profissional.
+- 📚 Gosto de aprender sobre **UI/UX Design e Desenvolvimento de Software**.
 - ✝ [Evoluir cada dia mais!]
 
 ---
