@@ -35,7 +35,7 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 ## 💡 Sobre Mim
 
 - 🎓 Formada em Desenvolvimento de Sistemas pela instituição **SENAI-SP**.
-- 💻 Estou praticando **Desenvolvimento Web, Mobile e UI/UX Design**.
+- 💻 Estou praticando **Desenvolvimento Web, Mobile e UI/UX Design**, aprimorando e aprendendo novas stacks!
 - 🎯 Meu objetivo é ser uma ótima profissional.
 - 📚 Gosto de aprender sobre **UI/UX Design e Desenvolvimento de Software**.
 - ✝ [Evoluir cada dia mais!]
