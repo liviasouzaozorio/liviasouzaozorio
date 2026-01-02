@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou a Lívia Ozório!
 
-Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programando e criando projetos web e mobile**, com controle de versionamento via **Git** e **GitHub**. Meu interesse pessoal é seguir em Full-Stack.
+Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programando e criando projetos web e mobile**, com controle de versionamento via **Git** e **GitHub**. Meu interesse profissional é seguir em Full-Stack.
 
 
 
