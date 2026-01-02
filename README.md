@@ -45,7 +45,7 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 
 
 
-## 💡 Sobre Mim
+## 💡 Sobre Mim || About me
 
 - 🎓 Formada em Desenvolvimento de Sistemas pela instituição **SENAI-SP**.
 - 💻 Estou praticando **Desenvolvimento Web, Mobile e UI/UX Design**, aprimorando e aprendendo novas stacks!
@@ -55,7 +55,7 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Como me encontrar || How find me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lívia-ozório-438888340)  
 
