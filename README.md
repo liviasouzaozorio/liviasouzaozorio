@@ -14,10 +14,10 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 ---
 
 
-## 🎯 Stacks em constante aprendizado
+## Constantemente aprendendo novas stacks || Constantly learning new Stacks 🎯
 
 
-### Back-End & front-End
+### Back-End & front-End 📚
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -32,7 +32,7 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### IDE's & Version Control
+### IDE's & Version Control 🛠
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -45,7 +45,7 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 
 
 
-## 💡 Sobre Mim || About me
+##  Sobre Mim || About me 👩🏻‍💻
 
 - 🎓 Formada em Desenvolvimento de Sistemas pela instituição **SENAI-SP**.
 - 💻 Estou praticando **Desenvolvimento Web, Mobile e UI/UX Design**, aprimorando e aprendendo novas stacks!
@@ -55,7 +55,7 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 
 ---
 
-## 📫 Como me encontrar || How find me
+## 📫 Como me encontrar || How to find me 🙋🏻‍♀️
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lívia-ozório-438888340)  
 
