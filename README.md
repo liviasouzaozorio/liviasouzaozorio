@@ -52,7 +52,7 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 - 🎯 Meu objetivo é ser uma ótima profissional.
 - 📚 Gosto de aprender sobre **UI/UX Design e Desenvolvimento de Software**.
 - 🌎 [Inovando o mundo através da tecnologia!]
-
+<details>
    <summary>🌐 Click here to read in English.</summary>
   <p>
     - 🎓 Graduated in Systems Development from the SENAI-SP institution. 
@@ -61,6 +61,7 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
     - 📚 I enjoy learning about UI/UX Design and Software Development. 
     - 🌎 [Innovating the world through technology!]
   </p>
+</details>
 
 ---
 
