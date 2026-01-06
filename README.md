@@ -53,6 +53,15 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 - 📚 Gosto de aprender sobre **UI/UX Design e Desenvolvimento de Software**.
 - 🌎 [Inovando o mundo através da tecnologia!]
 
+   <summary>🌐 Click here to read in English.</summary>
+  <p>
+- 🎓 Graduated in Systems Development from the SENAI-SP institution. 
+- 💻 I am practicing Web Development, Mobile, and UI/UX Design, improving and learning new stacks! 
+- 🎯 My goal is to become an excellent professional. 
+- 📚 I enjoy learning about UI/UX Design and Software Development. 
+- 🌎 [Innovating the world through technology!]
+  </p>
+
 ---
 
 ## 📫 Como me encontrar || How to find me 🙋🏻‍♀️
