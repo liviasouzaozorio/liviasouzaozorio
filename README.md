@@ -55,11 +55,11 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 
    <summary>🌐 Click here to read in English.</summary>
   <p>
-- 🎓 Graduated in Systems Development from the SENAI-SP institution. 
-- 💻 I am practicing Web Development, Mobile, and UI/UX Design, improving and learning new stacks! 
-- 🎯 My goal is to become an excellent professional. 
-- 📚 I enjoy learning about UI/UX Design and Software Development. 
-- 🌎 [Innovating the world through technology!]
+    - 🎓 Graduated in Systems Development from the SENAI-SP institution. 
+    - 💻 I am practicing Web Development, Mobile, and UI/UX Design, improving and learning new stacks! 
+    - 🎯 My goal is to become an excellent professional. 
+    - 📚 I enjoy learning about UI/UX Design and Software Development. 
+    - 🌎 [Innovating the world through technology!]
   </p>
 
 ---
