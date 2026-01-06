@@ -4,7 +4,7 @@
 Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programando e criando projetos web e mobile**, com controle de versionamento via **Git** e **GitHub**. Meu interesse profissional é seguir em Full-Stack.
 
 <details>
-  <summary>🌐 Click here to read in English.</summary>
+  <summary>📌 Read the adaptation in English.</summary>
   <p>
     I have a degree in Systems Development and I mainly work programming and creating web and mobile projects, with version control through Git and GitHub. My professional interest is to pursue a career in Full-Stack.
   </p>
@@ -53,7 +53,7 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 - 📚 Gosto de aprender sobre **UI/UX Design e Desenvolvimento de Software**.
 - 🌎 [Inovando o mundo através da tecnologia!]
 <details>
-   <summary>🌐 Click here to read in English.</summary>
+   <summary>📌  Read the adaptation in English.</summary>
   <p>
     - 🎓 Graduated in Systems Development from the SENAI-SP institution. 
     - 💻 I am practicing Web Development, Mobile, and UI/UX Design, improving and learning new stacks! 
