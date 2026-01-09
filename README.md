@@ -66,7 +66,9 @@ Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programan
 
 ## 📫 Como me encontrar || How to find me 🙋🏻‍♀️
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lívia-ozório-438888340) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/líviaozório) 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="líviaozório" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/l%C3%ADviaoz%C3%B3rio?trk=profile-badge">Lívia Ozório</a></div>
+              
 
               
 
