@@ -1,12 +1,12 @@
 
 # 👋 Olá, eu sou a Lívia Ozório! || What's up! I'm Lívia Ozório.👋
 
-Sou formada em **Desenvolvimento de Sistemas** e atuo principalmente **programando e criando projetos web e mobile**, com controle de versionamento via **Git** e **GitHub**. Meu interesse profissional é seguir em Full-Stack.
+Sou formada em **ADS** pelo SENAI-SP e atuo principalmente **desenvolvendo sistemas**, com controle de versionamento via **Git**. Meu objetivo profissional é seguir na área de tecnologia.
 
 <details>
   <summary>📌 Read the adaptation in English.</summary>
   <p>
-    I have a degree in Systems Development and I mainly work programming and creating web and mobile projects, with version control through Git and GitHub. My professional interest is to pursue a career in Full-Stack.
+    I have a degree in **ADS** from SENAI-SP and I mainly work **developing systems**, with version control via **Git**. My professional goal is to continue in the technology field.
   </p>
 </details>
 
