@@ -78,3 +78,7 @@ Sistema de carteirinha digital desenvolvido para otimizar o controle de acesso, 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/líviaozório)
 
 [![Email](https://img.shields.io/badge/-Email-FF6B6B?style=flat-square&logo=gmail&logoColor=white)](mailto:liviasouzaozorio@outlook.com)
+
+## 📄 Resume || Currículo
+Meu currículo completo com formação, projetos e experiências acadêmicas:
+[![Resume | CV](https://img.shields.io/badge/-Resume%20CV-4CAF50?style=flat-square&logo=googledrive&logoColor=white)](https://raw.githubusercontent.com/liviasouzaozorio/resume-livia/main/Curriculo_Livia_Ozorio_Estagio.pdf)
