@@ -36,7 +36,7 @@ Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** pelo SENAI-SP e 
 
 ---
 
-## 🚀 Projetos || Projects
+## ⭐ Principais Projetos || Main Projects
 
 📌 **Valoriza AI – Precificação logística inteligente**  
 Solução com aplicação de Inteligência Artificial voltada para apoio à precificação e tomada de decisão em logística para microempreendedores, com foco em eficiência e redução de custos.  
