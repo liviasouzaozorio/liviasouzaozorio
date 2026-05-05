@@ -1,21 +1,17 @@
-
 # 👋 Olá, eu sou a Lívia Ozório! || What's up! I'm Lívia Ozório.👋
 
-Sou formada em **ADS** pelo SENAI-SP e atuo principalmente **desenvolvendo sistemas**, com controle de versionamento via **Git**. Meu objetivo profissional é seguir na área de tecnologia.
+Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** pelo SENAI-SP e estudante de Logística, atuando no desenvolvimento de sistemas e soluções tecnológicas com foco em eficiência, automação e impacto real em processos.
 
 <details>
   <summary>📌 Read the adaptation in English.</summary>
   <p>
-    I have a degree in **ADS** from SENAI-SP and I mainly work **developing systems**, with version control via **Git**. My professional goal is to continue in the technology field.
+    I have a degree in **Systems Development (ADS)** from SENAI-SP and I am currently a **Logistics student**, working on system development and technology-based solutions focused on efficiency, automation, and real-world impact.
   </p>
 </details>
 
-
 ---
 
-
-## Constantemente aprendendo novas stacks || Constantly learning new Stacks 🎯
-
+## 🚀 Constantemente aprendendo novas stacks || Constantly learning new Stacks 🎯
 
 ### Back-End & Front-End 📚
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -40,25 +36,38 @@ Sou formada em **ADS** pelo SENAI-SP e atuo principalmente **desenvolvendo siste
 
 ---
 
+## 🚀 Projetos || Projects
 
+📌 **Valoriza AI – Precificação logística inteligente**  
+Solução com aplicação de Inteligência Artificial voltada para apoio à precificação e tomada de decisão em logística para microempreendedores, com foco em eficiência e redução de custos.  
+👉 https://github.com/liviasouzaozorio/valoriza-ai  
 
+📌 **Senai Pass – Carteirinha digital**  
+Sistema de carteirinha digital desenvolvido para otimizar o controle de acesso, reduzindo uso de materiais físicos e melhorando a eficiência operacional.  
+👉 https://github.com/liviasouzaozorio/Senai_pass  
 
+---
 
-##  Sobre Mim || About me 👩🏻‍💻
+## 💡 Sobre Mim || About me 👩🏻‍💻
 
-- 🎓 Formada em Desenvolvimento de Sistemas pela instituição **SENAI-SP**.
-- 💻 Estou praticando **Desenvolvimento Web, Mobile e UI/UX Design**, aprimorando e aprendendo novas stacks!
-- 🎯 Meu objetivo é ser uma ótima profissional.
-- 📚 Gosto de aprender sobre **UI/UX Design e Desenvolvimento de Software**.
-- 🌎 [Inovando o mundo através da tecnologia!]
+- 🎓 Formada em Análise de Desenvolvimento de Sistemas pelo **SENAI-SP**  
+- 📦 Estudante de Logística com foco em tecnologia aplicada a processos reais  
+- 💻 Praticando **Desenvolvimento Web, Mobile e UI/UX Design**, com evolução constante de novas stacks  
+- 🎯 Interesse em **Inteligência Artificial, Dados e Inovação**  
+- 📊 Foco em soluções que unem tecnologia, eficiência e impacto real  
+- 🚀 Motivada por inovação e resolução de problemas reais  
+- 🌎 Inovando o mundo através da tecnologia  
+
 <details>
-   <summary>📌  Read the adaptation in English.</summary>
+   <summary>📌 Read the adaptation in English.</summary>
   <p>
-    - 🎓 Graduated in Systems Development from the SENAI-SP institution. 
-    - 💻 I am practicing Web Development, Mobile, and UI/UX Design, improving and learning new stacks! 
-    - 🎯 My goal is to become an excellent professional. 
-    - 📚 I enjoy learning about UI/UX Design and Software Development. 
-    - 🌎 [Innovating the world through technology!]
+    - 🎓 Graduated in Systems Development from SENAI-SP  
+    - 📦 Logistics student focused on technology applied to real processes  
+    - 💻 Practicing Web, Mobile, and UI/UX Development with continuous learning  
+    - 🎯 Interested in Artificial Intelligence, Data, and Innovation  
+    - 📊 Focused on solutions that combine technology, efficiency, and real impact  
+    - 🚀 Driven by innovation and real-world problem solving  
+    - 🌎 Innovating the world through technology  
   </p>
 </details>
 
@@ -66,11 +75,6 @@ Sou formada em **ADS** pelo SENAI-SP e atuo principalmente **desenvolvendo siste
 
 ## 📫 Como me encontrar || How to find me 🙋🏻‍♀️
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/líviaozório) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/líviaozório)
 
-📩 liviasouzaozorio@outlook.com
-
-              
-
-              
-
+[![Email](https://img.shields.io/badge/-Email-FF6B6B?style=flat-square&logo=gmail&logoColor=white)](mailto:liviasouzaozorio@outlook.com)
