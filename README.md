@@ -5,7 +5,7 @@ Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** pelo SENAI-SP e 
 <details>
   <summary>📌 Read the adaptation in English.</summary>
   <p>
-    I have a degree in **Systems Development (ADS)** from SENAI-SP and I am currently a **Logistics student**, working on system development and technology-based solutions focused on efficiency, automation, and real-world impact.
+    I have a degree in Systems Development (ADS) from SENAI-SP and I am currently a Logistics student, working on system development and technology-based solutions focused on efficiency, automation, and real-world impact.
   </p>
 </details>
 
