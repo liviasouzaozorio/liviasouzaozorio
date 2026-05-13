@@ -82,4 +82,4 @@ Sistema de carteirinha digital desenvolvido para otimizar o controle de acesso, 
 ## 📄 Resume || Currículo
 Meu currículo completo com formação, projetos e experiências acadêmicas:
 
-[![CV](https://img.shields.io/badge/-Currículo%20CV-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/liviasouzaozorio/resume-livia/main/Curriculo_Livia_Ozorio.pdf)
+[![CV](https://img.shields.io/badge/-Bilingual%20Resume-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/liviasouzaozorio/resume-livia/main/Livia_Ozorio_CV_Bilingual.pdf)
