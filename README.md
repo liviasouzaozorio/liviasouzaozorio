@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Lívia Ozório! || What's up! I'm Lívia Ozório.👋
+# 👋 Olá, eu sou a Lívia Ozório! | What's up! I'm Lívia Ozório.👋
 
 Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** pelo SENAI-SP e estudante de Logística, atuando no desenvolvimento de sistemas e soluções tecnológicas com foco em eficiência, automação e impacto real em processos.
 
@@ -11,7 +11,7 @@ Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** pelo SENAI-SP e 
 
 ---
 
-## 🚀 Constantemente aprendendo novas stacks || Constantly learning new Stacks 🎯
+## 🚀 Constantemente aprendendo novas stacks | Constantly learning new Stacks 🎯
 
 ### Back-End & Front-End 📚
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -36,7 +36,7 @@ Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** pelo SENAI-SP e 
 
 ---
 
-## ⭐ Principais Projetos || Main Projects
+## ⭐ Principais Projetos | Main Projects
 
 📌 **Valoriza AI – Precificação logística inteligente**  
 Solução com aplicação de Inteligência Artificial voltada para apoio à precificação e tomada de decisão em logística para microempreendedores, com foco em eficiência e redução de custos.  
@@ -48,7 +48,7 @@ Sistema de carteirinha digital desenvolvido para otimizar o controle de acesso, 
 
 ---
 
-## 💡 Sobre Mim || About me 👩🏻‍💻
+## 💡 Sobre Mim | About me 👩🏻‍💻
 
 - 🎓 Formada em Análise de Desenvolvimento de Sistemas pelo **SENAI-SP**  
 - 📦 Estudante de Logística com foco em tecnologia aplicada a processos reais  
@@ -73,7 +73,7 @@ Sistema de carteirinha digital desenvolvido para otimizar o controle de acesso, 
 
 ---
 
-## 📫 Como me encontrar || How to find me 🙋🏻‍♀️
+## 📫 Como me encontrar | How to find me 🙋🏻‍♀️
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/líviaozório)
 
