@@ -95,4 +95,4 @@ Sistema desenvolvido para **automatizar o controle de acesso**, reduzir processo
 
 ## 📫 Como me encontrar | How to find me 🙋🏻‍♀️
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/liviasouzaozorio) [![Email](https://img.shields.io/badge/-Email-FF6B6B?style=flat-square&logo=gmail&logoColor=white)](mailto:liviasouzaozorio@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviasouzaozorio) [![Email](https://img.shields.io/badge/-Email-FF6B6B?style=flat-square&logo=gmail&logoColor=white)](mailto:liviasouzaozorio@outlook.com)
